@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 no, my line of text!
+=======
+line one of text
+>>>>>>> origin/master
